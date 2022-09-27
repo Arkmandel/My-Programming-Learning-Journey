@@ -1,6 +1,7 @@
 # My-Programming-Learning-Journey
 
 My programming journey started a little over three years ago. As many, I had a little of a fall out with this magnificent area. But as I advanced in my college journey, I realized the importance that programming ahs in the biological fields, and as my college journey comes to an end I decided to restart my learning, but since what have been previously learned has not been forgotten (for the most part), I decided to revisit what I did not remember and dive a little bit deeper into what I've already known.
+But since I intend to go to the *Bioinformatics* field, my journey will have some *Python* and *Python* related bias.
 
 Thus my journey commences again
 
