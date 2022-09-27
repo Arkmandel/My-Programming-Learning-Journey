@@ -20,6 +20,7 @@ I decided to start from the basics, I revisited *HTML* and went to *PUG* as HTML
   
   - JavaScript 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
+-the Specialization
   
-  
-  ## Back-end Journey
+## Back-end Journey
