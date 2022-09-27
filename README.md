@@ -7,7 +7,7 @@ Thus my journey commences again
 ## Front-end Journey
 - The Base 
 
-I decided to start from the basics, I revisited *HTML* and went to *PUG* as HTMLpreprocessor as it is notonly a more asthetic pleasing syntax, but also easier to code in. I also  decided to dive deeper into the *CSS*, going to *SASS* as my CSS preprocessor of choice, mainly for the same reasons as *PUG*. I then started revisiting *JavaScript*, discovering *CoffeeScript* midway through my hobbie site programming, then due to it's easy usability I decided to use it.
+I decided to start from the basics, I revisited *HTML* and went to *PUG* as HTMLpreprocessor as it is notonly a more asthetic pleasing syntax, but also easier to code in. I also  decided to dive deeper into the *CSS*, going to *SASS* as my CSS preprocessor of choice, mainly for the same reasons as *PUG*. I then started revisiting *JavaScript*, but I kept it in vanila *JavaScript* due to incompatibility of my original code to any *JavaScript* Preprocessor.
 
   - HTML 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -19,7 +19,6 @@ I decided to start from the basics, I revisited *HTML* and went to *PUG* as HTML
   
   - JavaScript 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-  ![CoffeeScript](https://img.shields.io/badge/coffeescript-%23323330.svg?style=plastic&logo=coffeescript&logoColor=%23F7DF1E)
   
   
   ## Back-end Journey
