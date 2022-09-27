@@ -21,6 +21,10 @@ I decided to start from the basics, I revisited *HTML* and went to *PUG* as HTML
   - JavaScript 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
--the Specialization
+- The Specialization
+
+  
+  -  ![React](https://img.shields.io/badge/react-%23323330.svg?style=plastic&logo=react&logoColor=%23F7DF1E)
+  -  ![Next](https://img.shields.io/badge/next-%23323330.svg?style=plastic&logo=nextt&logoColor=%23F7DF1E)
   
 ## Back-end Journey
